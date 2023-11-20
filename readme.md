@@ -29,7 +29,7 @@ Following the previous examples, API endpoints will be used to access Supabase.
 
 
 
-Add the `PUT` function, which will handle updates, after the existing `POST` function in **`/src/routes/api/locations/+server.js`**
+Add the `PUT` function, which will handle updates, **after the existing `POST` function** in **`/src/routes/api/locations/+server.js`**
 
 ![PUT endpoinf function for locations](./media/put_endpoint.png)
 
