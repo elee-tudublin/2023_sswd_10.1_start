@@ -147,7 +147,7 @@ When clicked the button should open the `/add_up_location/id` route, with the cu
 ## 5. Exercises
 
 1. Add the required Auth policies to allow updates to the locations table in Supabase.
-2. Get the Delete button working and set the required Auth policies.
+2. Get the Delete button working (use the existing function and API endoint) and set the required Auth policies.
 3. Only show update ad delete buttons if a user is logged in.
 4. Modify the locations page to only show update and delete buttons for locations belonging to the logged in user. 
 5. Protect the routes and API endpoints from unauthorised access. See the add locations enpoint for an example.
